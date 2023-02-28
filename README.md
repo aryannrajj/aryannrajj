@@ -10,7 +10,7 @@
 - 📫 Reach me @
 <a style="padding-left: 20px;" href="https://discordapp.com/users/AryanRaj#2672" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="discord" height="30" width="30" /></a>
 <a style="padding-left: 20px;" href="mailto:aryanraj17586@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="28" /></a>
-      <br />
+      <br/>
 
 - ⚡ Fun fact i think i am stupid
 
