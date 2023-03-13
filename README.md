@@ -12,7 +12,7 @@
 <a style="padding-left: 20px;" href="mailto:aryanraj17586@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="28" /></a>
       <br/>
 
-- ⚡ Fun fact :- Even if you will ask me something I don't know. I will come prepared in the next meet to explain you
+- ⚡ Fun fact :- Even if you will ask me something I don't know. I will come prepared in the next meet to explain you..!!
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryannrajj&show_icons=true&locale=en&layout=compact" alt="aryannrajj" /></p>
